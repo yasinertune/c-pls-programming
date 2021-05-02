@@ -1,0 +1,15 @@
+                    LOKANTAMIZA HOSGELDINIZ             02-05-2021 21:28
+
+Siparisler    Adet     KDV'siz Fiyat     KDV'li Fiyat     Toplam Fiyat
+------------------------------------------------------------------------
+ Corba         5          4.6                 5              25 TL
+ Pilav         5          7.4                 8              40 TL
+ Nohut         4          6.4                 7              28 TL
+ P.Kizartm     2          8.3                 9              18 TL
+ Hamburger     4          8.3                 9              36 TL
+ Salata        2          3.7                 4              8 TL
+ Patso         1          6.4                 7              7 TL
+ Su            4          1.8                 2              8 TL
+ Kola          1          4.6                 5              5 TL
+------------------------------------------------------------------------
+4. Masa Odenecek Tutariniz: 175 TL
