@@ -1,4 +1,4 @@
-//Yasin Ertune - C++ dilinde biçimleyiciler 
+//Yasin Ertune - C++ dilinde biÃ§imleyiciler 
 #include <iostream> 
 #include <iomanip> 
 using namespace std; 
@@ -18,12 +18,12 @@ int main() {
 	float a=12.32441232432;
 	int b=80;
 	cout<<"Normali:"<<a<<endl;
-	cout<<"Setbase(16):"<<setbase(16)<<b<<endl;	//16 lık tabanda 
+	cout<<"Setbase(16):"<<setbase(16)<<b<<endl;	//16 lik tabanda 
 	cout<<"Setbase(10):"<<setbase(10)<<b<<endl;	//10 luk tabanda 
 	cout<<"Setprecision:"<<setprecision(5)<<a<<endl;	//5 tane sayiyi aliyor 
 	cout<<"Fixed:"<<fixed<<a<<endl;	
 	cout<<"Scientific:"<<scientific<<a<<endl;	//bilimsel
-	cout<<"Dec(10):"<<dec<<b<<endl;	//ondalık 
-	cout<<"Hex(16):"<<hex<<b<<endl;	//onaltılık
+	cout<<"Dec(10):"<<dec<<b<<endl;	//ondalik 
+	cout<<"Hex(16):"<<hex<<b<<endl;	//onaltilik
 	cout<<"Oct(8):"<<oct<<b<<endl; //sekizlik 
 }
